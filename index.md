@@ -27,7 +27,4 @@ My Gooogle Scholar page is [here]( https://xs2.dailyheadlines.cc/citations?user=
 My e-mail address is liangxun@cug.edu.cn
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oJWphPf192WlcrqYUqmcSrtF0yW-hUg6Led0ezXqE6A&cl=ffffff&w=a"></script>
-
-
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JLmMupn-j9R_OH9vuBzaXcG1t7U-zVqt-UQg1m9PAek&cl=ffffff&w=a"></script>
