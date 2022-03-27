@@ -1,4 +1,5 @@
 ## Welcome to Dr. Xun Liang's Pages
+![Figure 0](https://github.com/Xun2018/Xun2018.github.io/blob/main/Xun.jpg)
 Dr. Liang is currently a professor in the School of Geography and Information Engineering, China University of Geosciences (CUG). He has published 31 journal articles since 2016. Four papers are flagged with an ESI Hot (top 0.1%) Paper. The sum of time cited is 1400, the h-index is 13. His main research interests include spatio-temporal dynamic modeling, land-use change analysis and simulation.
 
 ## Education
