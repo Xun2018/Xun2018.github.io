@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Dr. Xun Liang's Pages
+Dr. Liang is currently a professor in the School of Geography and Information Engineering, China University of Geosciences (CUG). He has published 31 journal articles since 2016. Four papers are flagged with an ESI Hot (top 0.1%) Paper. The sum of time cited is 1400, the h-index is 13. His main research interests include spatio-temporal dynamic modeling, land-use change analysis and simulation.
 
-You can use the [editor on GitHub](https://github.com/Xun2018/Xun2018.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
+Xun Liang received the B.S. degree in Resources Environment and Management of Urban and Rural Planning from Shanxi University (SXU) in 2013, the M.Sc. degree in Cartography and Geography Information System from Sun-Yat Sen University (SYSU) in 2015, and the Ph.D. degree in Cartography and Geography Information System from SYSU in 2018. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Published model softwares
+1. Dr. Liang is the developer of the [PLUS model](http://www.geosimulation.cn/FLUS.html) and software, a widely used land use simulation model, which has been used by scholars in many countries, including China, USA, the UK, Portugal, Turkey, India, and etc. Studies using PLUS model have been published in or submitted to various international journals, such as Ecological Indiators,and Science of the Total Environment, Land use policy, and Global Ecology and Conservation. 
 
-### Markdown
+![Figure 1](https://github.com/Xun2018/Xun2018.github.io/blob/main/pic1.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Dr. Liang proposed the [Mixed-cell Cellular Automata (MCCA) model](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata)  and software, which is fundamentally different from conventional pure-cell CA models. It enables mixed land use research to leap from static analysis to dynamic simulation and has received extensive attention from worldwide scholars. 
+3. Dr. Liang also developed the earlier [GeoSOS-FLUS](http://www.geosimulation.cn/FLUS.html) software package for land-use change simulation, which also has been used by scholars in many countries, including China, USA, Germany, Nigeria, India, Turkey, Cambodia and etc. Studies using FLUS model have been published in or submitted to various international journals, such as Nature Communications, Global Environment Change, Annals of the American Association of Geographers, Environmental Science & Technology, Journal of Environmental Management, Ecological Indicator, and Landscape Ecology. 
+4. Dr. Liang also developed the [OS-CA model](https://github.com/HPSCIL/Open-Space-Cellular_Automata) and software, which can simulate the dynamics and walking accessibility of urban open spaces(OS). 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Home Page
+My Chinese home page is in [here]( http://grzy.cug.edu.cn/liangxun/zh_CN/index.htm). 
 
-1. Numbered
-2. List
+### Scholar Page
+My Gooogle Scholar page is in [here]( https://xs2.dailyheadlines.cc/citations?user=sIZG1mkAAAAJ&hl=zh-CN&oi=ao). My researchgate is in [here](https://www.researchgate.net/profile/Xun-Liang-3)
 
-**Bold** and _Italic_ and `Code` text
+### Contact
+My e-mail address is liangxun@cug.edu.cn
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oJWphPf192WlcrqYUqmcSrtF0yW-hUg6Led0ezXqE6A&cl=ffffff&w=a"></script>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xun2018/Xun2018.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
