@@ -32,6 +32,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xun2018/Xun2018.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My Chinese home page in [here]( http://grzy.cug.edu.cn/liangxun/zh_CN/index.htm) or my researchgate in [here](https://www.researchgate.net/profile/Xun-Liang-3) and my e-mail address is liangxun@cug.edu.cn
