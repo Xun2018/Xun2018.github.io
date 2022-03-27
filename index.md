@@ -7,7 +7,7 @@ Xun Liang received the B.S. degree in Resources Environment and Management of Ur
 ## Published model softwares
 1. Dr. Liang is the developer of the [PLUS model](http://www.geosimulation.cn/FLUS.html) and software, a widely used land use simulation model, which has been used by scholars in many countries, including China, USA, the UK, Portugal, Turkey, India, and etc. Studies using PLUS model have been published in or submitted to various international journals, such as Ecological Indiators,and Science of the Total Environment, Land use policy, and Global Ecology and Conservation. 
 
-![Figure 1](https://github.com/Xun2018/Xun2018.github.io/blob/main/pic1.jpg)
+![Figure 1](/Xun2018.github.io/blob/main/pic1.jpg)
 
 2. Dr. Liang proposed the [Mixed-cell Cellular Automata (MCCA) model](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata)  and software, which is fundamentally different from conventional pure-cell CA models. It enables mixed land use research to leap from static analysis to dynamic simulation and has received extensive attention from worldwide scholars. 
 3. Dr. Liang also developed the earlier [GeoSOS-FLUS](http://www.geosimulation.cn/FLUS.html) software package for land-use change simulation, which also has been used by scholars in many countries, including China, USA, Germany, Nigeria, India, Turkey, Cambodia and etc. Studies using FLUS model have been published in or submitted to various international journals, such as Nature Communications, Global Environment Change, Annals of the American Association of Geographers, Environmental Science & Technology, Journal of Environmental Management, Ecological Indicator, and Landscape Ecology. 
