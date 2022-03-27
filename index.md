@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-My Chinese home page in [here]( http://grzy.cug.edu.cn/liangxun/zh_CN/index.htm) or my researchgate in [here](https://www.researchgate.net/profile/Xun-Liang-3) and my e-mail address is liangxun@cug.edu.cn
+My Chinese home page is in [here]( http://grzy.cug.edu.cn/liangxun/zh_CN/index.htm). My researchgate is in [here](https://www.researchgate.net/profile/Xun-Liang-3) and my e-mail address is liangxun@cug.edu.cn
