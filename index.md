@@ -7,7 +7,7 @@ Dr. Liang is currently a professor in the School of Geography and Information En
 Xun Liang received the B.S. degree in Resources Environment and Management of Urban and Rural Planning from Shanxi University (SXU) in 2013, the M.Sc. degree in Cartography and Geography Information System from Sun-Yat Sen University (SYSU) in 2015, and the Ph.D. degree in Cartography and Geography Information System from SYSU in 2018. 
 
 ## Published model softwares
-1. Dr. Liang is the developer of the [PLUS model](https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model) and software, a widely used land use simulation model, which has been used by scholars in many countries, including China, USA, the UK, Portugal, Turkey, India, and etc. Studies using PLUS model have been published in or submitted to various international journals, such as Ecological Indiators,and Science of the Total Environment, Land use policy, and Global Ecology and Conservation. 
+1. Dr. Liang is the developer of the [PLUS model](https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model) and software, a widely used land use simulation model, which has been used by scholars in many countries, including China, USA, the UK, Portugal, Turkey, India, and etc. Studies using PLUS model have been published in many international journals, such as Ecological Indiators,Science of the Total Environment, Land use policy, and Global Ecology and Conservation. 
 
 ![avatar1](https://www.researchgate.net/profile/Xun-Liang-3/publication/344827904/figure/fig3/AS:954379632922625@1604553244297/Workflow-of-the-rule-mining-framework-based-on-a-land-expansion-analysis-strategy-with_Q320.jpg)
 
