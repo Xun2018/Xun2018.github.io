@@ -1,5 +1,5 @@
 ## Welcome to Dr. Xun Liang's Pages
-![Figure 1](https://github.com/Xun2018/Xun2018.github.io/blob/main/Xun.jpg)
+<!-- ![Figure 1](https://github.com/Xun2018/Xun2018.github.io/blob/main/Xun.jpg) -->
 
 Dr. Liang is currently a professor in the School of Geography and Information Engineering, China University of Geosciences (CUG). He has published 31 journal articles since 2016. Four papers are flagged with an ESI Hot (top 0.1%) Paper. The sum of time cited is 1400, the h-index is 13. His main research interests include spatio-temporal dynamic modeling, land-use change analysis and simulation.
 
@@ -9,7 +9,7 @@ Xun Liang received the B.S. degree in Resources Environment and Management of Ur
 ## Published model softwares
 1. Dr. Liang is the developer of the [PLUS model](http://www.geosimulation.cn/FLUS.html) and software, a widely used land use simulation model, which has been used by scholars in many countries, including China, USA, the UK, Portugal, Turkey, India, and etc. Studies using PLUS model have been published in or submitted to various international journals, such as Ecological Indiators,and Science of the Total Environment, Land use policy, and Global Ecology and Conservation. 
 
-![Figure 2](https://github.com/Xun2018/Xun2018.github.io/blob/main/pic1.jpg)
+<!--![Figure 2](https://github.com/Xun2018/Xun2018.github.io/blob/main/pic1.jpg)-->
 
 2. Dr. Liang proposed the [Mixed-cell Cellular Automata (MCCA) model](https://github.com/HPSCIL/Mixed_Cell_Cellullar_Automata)  and software, which is fundamentally different from conventional pure-cell CA models. It enables mixed land use research to leap from static analysis to dynamic simulation and has received extensive attention from worldwide scholars. 
 3. Dr. Liang also developed the earlier [GeoSOS-FLUS](http://www.geosimulation.cn/FLUS.html) software package for land-use change simulation, which also has been used by scholars in many countries, including China, USA, Germany, Nigeria, India, Turkey, Cambodia and etc. Studies using FLUS model have been published in or submitted to various international journals, such as Nature Communications, Global Environment Change, Annals of the American Association of Geographers, Environmental Science & Technology, Journal of Environmental Management, Ecological Indicator, and Landscape Ecology. 
